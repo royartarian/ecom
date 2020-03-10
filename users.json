@@ -31,5 +31,20 @@
     "email": "as@as.com",
     "password": "2506256bbe667097c9c4ae87c1f6c2c9465045710329476337252b3dc08d0f66da8425d3889fb1f7a7c59f62f90fe0f57af0987b1de682e1faebb61a0a9e73d2.05e33180e6ef9310",
     "id": "86908d7b"
+  },
+  {
+    "email": "test2@test2.com",
+    "password": "913f72bae719dcd393a97fc9a52394f748e5fa1385cd7f466fe72dfaacacecdcb0eb3ff7e8445f7a86c24f0662fd72eb7f311a1e169c4eb920610ff503ef5417.7756187547a17aa4",
+    "id": "a29526d2"
+  },
+  {
+    "email": "info@royartarian.com",
+    "password": "90d4a4af79f35b3186ba7a563c2e4a98155131c622f123e96d231abf8047e8e5ccb5e6dbd356d6f3970a2a0740abd9c192786306403c3c16bb6cf426bb2f1db0.430ac7d9a18c6427",
+    "id": "823a7bab"
+  },
+  {
+    "email": "info@royartarian.com",
+    "password": "ad0b7c7f1097b0cc5af2b4f05b2634b85722f9801e77f8b0364fac4ba166c5291e42bea00c4a93282c78874f0c8b6cda35b81ee23cb295819aec3ab1176a6604.b5a747ec937b17dc",
+    "id": "f249b931"
   }
 ]
